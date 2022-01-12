@@ -1,4 +1,15 @@
+## Hello! I am cocoNUTTree!
+
 ![Image](https://i.imgur.com/LeByH3F.png)
 
-#### My Minecraft Plugin:
-- **[CatchBall](https://www.spigotmc.org/resources/catchball.94867/)** `A plugin that make entity to be catchable.`
+#### Interest:
+-  **[CatchBall](https://www.spigotmc.org/resources/catchball.94867/)** `A plugin that make entity to be catchable.`
+
+- **[Skript_Tutorial](https://github.com/NUTT1101/Skript_Tutorial)** `A Minecraft server language tutorial`
+
+- **[NUTTDiscordBot](https://github.com/NUTT1101/NUTTDiscordBot)** `A web crawler bot used to get lately announcement of the school.`
+
+#### School homework:
+- **[ComputerScience](https://github.com/NUTT1101/ComputerScience)**
+- **[cpp_topic](https://github.com/NUTT1101/cpp_topic)**
+- **[Ethernet_Chatroom](https://github.com/NUTT1101/Ethernet_Chatroom)** `My first porject in cpp.`
