@@ -2,12 +2,14 @@
 
 **Hi, I'm NUTT!**
  I'm a senior student at Dayeh University with a strong passion for software development.
+ 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NUTT1101&theme=tokyonight&layout=compact&hide=html)](https://github.com/NUTT1101)
 
 ## Projects
 
 ### [Dyu5thdorm](https://github.com/Dyu5th-Dorm)
 
-**Tech Stack**: Java, Spring Boot, MySQL
+**Tech Stack**: Java, [Spring Boot](https://spring.io/projects/spring-boot), MySQL
 
 - [Dyu5thDiscordBot](https://github.com/Dyu5th-Dorm/DiligentDiscordBot)
 
@@ -51,7 +53,7 @@
 
 ### [DYU-Bus-App](https://github.com/NUTT1101/DYU-Bus-App)
 
-**Tech Stack**: Dart, Flutter
+**Tech Stack**: Dart, [Flutter](https://flutter.dev/)
 
 **Description**: A bus schedule app for Da-Yeh University.
 
@@ -65,8 +67,8 @@
 
 **Tech Stack**:
 
-- Python, FastAPI, requests
-- Dart, Flutter
+- Python, [FastAPI](https://fastapi.tiangolo.com/), requests
+- Dart, [Flutter](https://flutter.dev/)
 
 ### [DyuOhin1](https://github.com/DyuOhin1)
 
@@ -81,14 +83,3 @@
 - [dyu_sis_app](https://github.com/DyuOhin1/dyu_sis_app)
 
   **Description**: A **mobile app** that integrates student information from Da-Yeh University's system.
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NUTT1101&theme=tokyonight&layout=compact&hide=html)](https://github.com/NUTT1101)
-
-****
-<a href="https://dart.dev/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="dart" width="32" height="32"/> 
-</a>
-
-<a href="https://www.java.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="32" height="32"/> 
-</a>
